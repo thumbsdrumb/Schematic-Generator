@@ -1,0 +1,18 @@
+c:\users\endar\documents\visual studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.exe.config
+c:\users\endar\documents\visual studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.csprojResolveAssemblyReference.cache
+c:\users\endar\documents\visual studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic_Generator.Properties.Resources.resources
+c:\users\endar\documents\visual studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.csproj.GenerateResource.Cache
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.exe
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.pdb
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.exe
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.pdb
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic_Generator.Form1.resources
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.exe.config
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.exe
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.pdb
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.exe
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Debug\Schematic Generator.pdb
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.csprojResolveAssemblyReference.cache
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic_Generator.Form1.resources
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic_Generator.Properties.Resources.resources
+C:\Users\aj\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Debug\Schematic Generator.csproj.GenerateResource.Cache

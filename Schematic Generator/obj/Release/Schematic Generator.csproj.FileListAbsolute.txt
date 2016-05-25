@@ -1,0 +1,9 @@
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Release\Schematic Generator.exe.config
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Release\Schematic Generator.exe
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\bin\Release\Schematic Generator.pdb
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic Generator.csprojResolveAssemblyReference.cache
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic_Generator.Form1.resources
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic_Generator.Properties.Resources.resources
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic Generator.csproj.GenerateResource.Cache
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic Generator.exe
+C:\Users\endar\Documents\Visual Studio 2015\Projects\Schematic Generator\Schematic Generator\obj\Release\Schematic Generator.pdb
