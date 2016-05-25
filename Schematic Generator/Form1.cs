@@ -24,7 +24,7 @@ namespace Schematic_Generator
         string newLocation = "C:\\Users\\Public\\Schematics\\Schematics.txt";
         string folderLocation = "C:\\Users\\Public\\Schematics";
 
-
+        
 
         private void HourMeter_Click(object sender, EventArgs e)
         {
